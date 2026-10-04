@@ -18,8 +18,8 @@ target/
 *.iws
 *.iml
 *.ipr
-/src/main/resources/application-teste.properties
-/src/main/resources/application.properties
+
+
 
 
 
@@ -36,5 +36,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+/src/main/resources/application-local.properties
 
 
